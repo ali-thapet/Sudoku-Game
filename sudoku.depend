@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1709308547 source:e:\embedded course\tools\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	"sudoku.h"
+
+1709309253 e:\embedded course\tools\sudoku\sudoku.h
+
+1709309253 source:e:\embedded course\tools\sudoku\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+	"sudoku.h"
+
+1712966844 source:e:\embedded course\tools\projects\sudoku.project\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+	"sudoku.h"
+
+1716825445 e:\embedded course\tools\projects\sudoku.project\sudoku.h
+
+1712962910 source:e:\embedded course\tools\projects\sudoku.project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	"sudoku.h"
+
